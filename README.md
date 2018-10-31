@@ -2,7 +2,7 @@
 
 This repository contains the source for my Pelican powered blog served through GitHub pages http://eblerim.github.io
 
-The template of my blog it's based on Jake VanderPlas [Pythonic Perambulations blog](http://jakevdp.github.io) (MIT license), which was adapted from Daniel Rodriguez [blog](https://github.com/danielfrg/danielfrg.github.io-source) intially released under the Apache v2.0 license. Otherwise, prerequisite to understand the inner workings of this  repository is to have experience (at least) with Git, GitHub, GitHub Pages, ghp-import (needed to import effortlessly GitHub Pages), shell commands, Makefile and Python. Some motivation for choosing Pelican for static blogging and coming up with this particular solution I have provided in this blog [post](https://eblerim.github.io/blog/2018/11/01/github-pages-pelican-opensource/). 
+The template of my blog it's based on Jake VanderPlas [Pythonic Perambulations blog](http://jakevdp.github.io) (MIT license), which was adapted from Daniel Rodriguez [blog](https://github.com/danielfrg/danielfrg.github.io-source) intially released under the Apache v2.0 license. Otherwise, prerequisite to understand the inner workings of this  repository is to have experience (at least) with Git, GitHub, GitHub Pages, ghp-import (needed to import effortlessly GitHub Pages), shell commands, Makefile and Python. Some motivation for choosing Pelican for static blogging and coming up with this particular solution I have provided in this blog [post](http://eblerim.github.io/blog/2018/10/31/githubpages-pelican-opensource/).
 
 
 ## Building the Blog
